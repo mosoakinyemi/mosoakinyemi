@@ -1,5 +1,10 @@
-### Hi there 👋
+ ### Hi there 👋🏾👋🏽👋🏽
 
+I'm a React-Native developer at CallStack
+
+I think my favorite thing to talk about is UI design and software architecture.
+
+Thanks for checking out my profile.
 <!--
 **mosoakinyemi/mosoakinyemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
